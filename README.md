@@ -2,7 +2,7 @@
 
 **Freelance fullstack developer and software architect, Copenhagen.** I run [Simple Systemer](https://simplesystemer.dk), where I help companies with business-critical systems: integration, architecture, modernisation, and increasingly, putting AI to work in real products and real workflows.
 
-20+ years in software · PhD in Computer Science (Aarhus University) · pension, insurance, finance and the public sector.
+25+ years in software · PhD in Computer Science (Aarhus University) · pension, insurance, finance and the public sector.
 
 ---
 
