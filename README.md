@@ -8,7 +8,7 @@
 
 ## What I do
 
-**AI, end to end.** I don't just call a model API. I build the whole thing around it: agents, tool use, MCP servers, retrieval, evaluation, guardrails, and the boring-but-essential plumbing that makes an AI feature safe to ship in a regulated domain. I also use AI heavily in my own work, from coding agents to automated testing and documentation, and I help teams figure out where it actually pays off.
+**AI, end to end.** I build a lot of useful extensions to AI clients; some examples are liquidity analysis with bank integration, chat-based interaction with geographical data, flight data usage in chat bots, and chat-based grocery shopping. I also use AI heavily in my own work, from coding agents to automated testing and documentation, and I help teams figure out where it actually pays off.
 
 **Fullstack, for real.** Backend in C#/.NET, frontend in TypeScript/React, data in SQL, infrastructure as code on Azure and AWS, and the CI/CD pipelines that tie it together. I'm comfortable owning a system from the database schema to the deploy pipeline to the UI.
 
